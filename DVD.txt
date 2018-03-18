@@ -1,0 +1,1 @@
+Dvd{title='dsada', year=2005, price=1.0}

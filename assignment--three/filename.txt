@@ -1,0 +1,45 @@
+DVD{title='MyDvd', year=2017, price=35.78}
+DVD{title='MyDvd', year=2017, price=71.56}
+DVD{title='MyDvd', year=2017, price=107.34}
+DVD{title='MyDvd', year=2017, price=143.12}
+DVD{title='MyDvd', year=2017, price=178.9}
+DVD{title='MyDvd 0', year=2017, price=0.0}
+DVD{title='MyDvd 1', year=2018, price=35.78}
+DVD{title='MyDvd 2', year=2019, price=71.56}
+DVD{title='MyDvd 3', year=2020, price=107.34}
+DVD{title='MyDvd 4', year=2021, price=143.12}
+DVD{title='MyDvd 0', year=2017, price=0.0}
+DVD{title='MyDvd 1', year=2018, price=35.78}
+DVD{title='MyDvd 2', year=2019, price=71.56}
+DVD{title='MyDvd 3', year=2020, price=107.34}
+DVD{title='MyDvd 4', year=2021, price=143.12}
+DVD{title='MyDvd 0', year=2017, price=0.0}
+DVD{title='MyDvd 1', year=2018, price=35.78}
+DVD{title='MyDvd 2', year=2019, price=71.56}
+DVD{title='MyDvd 3', year=2020, price=107.34}
+DVD{title='MyDvd 4', year=2021, price=143.12}
+DVD{title='MyDvd 0', year=2017, price=0.0}
+DVD{title='MyDvd 1', year=2018, price=35.78}
+DVD{title='MyDvd 2', year=2019, price=71.56}
+DVD{title='MyDvd 3', year=2020, price=107.34}
+DVD{title='MyDvd 4', year=2021, price=143.12}
+DVD{title='MyDvd 0', year=2017, price=0.0}
+DVD{title='MyDvd 1', year=2018, price=35.78}
+DVD{title='MyDvd 2', year=2019, price=71.56}
+DVD{title='MyDvd 3', year=2020, price=107.34}
+DVD{title='MyDvd 4', year=2021, price=143.12}
+DVD{title='MyDvd 0', year=2017, price=0.0}
+DVD{title='MyDvd 1', year=2018, price=35.78}
+DVD{title='MyDvd 2', year=2019, price=71.56}
+DVD{title='MyDvd 3', year=2020, price=107.34}
+DVD{title='MyDvd 4', year=2021, price=143.12}
+DVD{title='MyDvd 0', year=2017, price=0.0}
+DVD{title='MyDvd 1', year=2018, price=35.78}
+DVD{title='MyDvd 2', year=2019, price=71.56}
+DVD{title='MyDvd 3', year=2020, price=107.34}
+DVD{title='MyDvd 4', year=2021, price=143.12}
+DVD{title='MyDvd 0', year=2017, price=0.0}
+DVD{title='MyDvd 1', year=2018, price=35.78}
+DVD{title='MyDvd 2', year=2019, price=71.56}
+DVD{title='MyDvd 3', year=2020, price=107.34}
+DVD{title='MyDvd 4', year=2021, price=143.12}

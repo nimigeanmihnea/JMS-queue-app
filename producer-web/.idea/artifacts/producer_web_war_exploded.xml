@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="producer-web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/producer_web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="producer-web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="producer-web" />
+          <element id="module-output" name="client-consumer" />
+          <element id="module-output" name="queue-server" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:3.0.4" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
